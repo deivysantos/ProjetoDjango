@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-vk0%kpv_%ff+zkqt(yg8l!o&50(w!th+tkvku$4mds!nhd^h0c
 #DEBUG com o valor FALSE = está em modo produção
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] # Dentro dos colchete pode colocar qualquer site (domínio) para publicar seu projeto
+ALLOWED_HOSTS = ['github.com/deivysantos/ProjetoDjango'] # Dentro dos colchete pode colocar qualquer site (domínio) para publicar seu projeto
 
 
 # Application definition
